@@ -1,4 +1,3 @@
-
 ![LoliCount](https://count.getloli.com/get/@dridani?theme=rule34)
 
 - 👋 Hi, I’m Dony Ridani
