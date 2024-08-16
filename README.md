@@ -3,5 +3,3 @@
 - 👋 Hi, I’m Dony Ridani
 - 👀 I’m interested in Web Development 
 - 🌱 I’m learning anything
-
-🙏 Sorry my repo & projects are archived
