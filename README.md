@@ -2,4 +2,4 @@
 
 - 👋 Hi, I’m Dony Ridani
 - 👀 I’m interested in Web Development 
-- 🌱 I’m learning anything
+- 🌱 I'm currently learning Frontend
